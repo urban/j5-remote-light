@@ -1,6 +1,6 @@
 # J5 Remote Light
 
-> A project showing how to use johnny-five and socket.io to controll turning on and off an LED from a webpage.
+> A project showing how to use johnny-five and socket.io to control turning on and off an LED from a webpage.
 
 ## Run Example
 
